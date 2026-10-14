@@ -1,4 +1,4 @@
-  
+9  
 🛒 E-commerce Customer Churn Prediction
 
 A Machine Learning project that predicts whether an e-commerce customer is likely to churn (stop using the service) based on their purchasing behavior, customer details, and interaction history.
@@ -191,9 +191,11 @@ Open the project notebook and run the cells step by step.
 👩‍💻 Author
 
 Urvi Agarwal
+
 B.Tech – Artificial Intelligence & Data Science
 
 Project
+
 E-commerce Customer Churn Prediction Model
 
 ---
