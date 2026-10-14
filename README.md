@@ -191,13 +191,10 @@ Open the project notebook and run the cells step by step.
 👩‍💻 Author
 
 Urvi Agarwal
-
 B.Tech – Artificial Intelligence & Data Science
 
 Project
-
 E-commerce Customer Churn Prediction Model
-
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
