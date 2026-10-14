@@ -194,8 +194,8 @@ Urvi Agarwal
 B.Tech – Artificial Intelligence & Data Science
 
 Project
-
 E-commerce Customer Churn Prediction Model
+
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
